@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8g6_ltCjW44hiPq01WbsIsDZ3UvrcM--Gg&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+   background-color: rgb(242, 238, 238);
+    height: 450px;
+    width: 400px;
+    margin-top: 70px;
+    border-radius: 50px;
+    opacity: 40%;
+    
+    
+}
+h1{
+    text-align: center;
+    
+}
+.inp{
+    height: 40px;
+    width: 300px;
+    opacity: 100%;
+   
+}
+.btn{
+    background-color: rgb(2, 14, 255);
+    height: 40px;
+    width: 300px;
+    color: white;
+    cursor: pointer;
+}
+.forget{
+    color: blue;
+    cursor: pointer;
+}
+
+.btn1{
+    background-color: rgb(41, 122, 0);
+    height: 40px;
+    width: 200px;
+    color: white;  
+    cursor: pointer;
+}
